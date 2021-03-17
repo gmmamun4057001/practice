@@ -1,0 +1,55 @@
+h2{
+	color:red;
+}
+
+.yellow{
+	color:yellow; 
+}
+.header{
+  min-height:50px;  
+  background-color:yellow;
+}
+.wrapper{
+     overflow: hidden;
+	border:5px solid olive;  
+}
+ .blog{
+ 	float:left; 
+ 	width:60% ;
+ 	min-height:100px;  
+    background-color:red;
+}
+.contact{
+	float: right;
+    width:40%;
+	min-height:100px;  
+    background-color:blue;
+}
+.baby1{
+	width: 33.33%;
+	height: 500px;
+	float: left;
+}
+.baby2{
+	width: 33.33%;
+	height: 500px;
+	float: left;
+}
+.baby3{
+	width: 33.33%;
+	height: 500px;
+	float: left;
+}
+.aside {
+  width: 30%;
+  padding-left: 15px;
+  margin-left: 15px;
+  float: right;
+  font-style: italic;
+  background-color: yellow;
+}
+
+
+
+
+
